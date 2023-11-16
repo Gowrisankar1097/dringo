@@ -33,7 +33,7 @@ Understand and analyze how you use our app
 Develop new products, services, features, and functionality
 Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the app, and for marketing and promotional purposes
 Send you emails
-For each Particular Services against ,there will be amount. Once you Approve, We will also collect Payment from our side.
+
 
 
 CCPA Privacy Rights (Do Not Sell My Personal Information):
